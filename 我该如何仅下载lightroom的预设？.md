@@ -41,6 +41,9 @@ Adobe 官方其实提供了部分免费预设包，安装 Lightroom 时会自动
 | [FilterGrade Free Presets](https://filtergrade.com/free-lightroom-presets/) | 免费与付费混合        |
 | [Photonify](https://photonify.com/free-lightroom-presets/)                  | 每种风格分类明确       |
 | [Presetpro](https://presetpro.com/)                                         | 专业级、风格丰富（部分免费） |
+| [Freepresets](https://www.freepresets.com/compatibility/camera-raw/?utm_source=chatgpt.com) |  |
+| [FixthePhoto](https://fixthephoto.com/camera-raw-presets?utm_source=chatgpt.com) |  |
+
 
 > 下载后，把 `.xmp` 文件放进
 > `C:\Users\<用户名>\AppData\Roaming\Adobe\CameraRaw\Settings`
