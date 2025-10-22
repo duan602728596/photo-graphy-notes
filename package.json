@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@sweet-milktea/util-tools": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
+  }
+}
